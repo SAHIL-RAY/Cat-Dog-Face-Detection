@@ -4,7 +4,11 @@ This works presents the task of detecting a dog and cat face. The system utilise
 My test video: 
 
 
-https://user-images.githubusercontent.com/68179452/167472017-046ea366-1950-49fe-a1f2-b337ab9b6c26.mp4
+
+
+https://user-images.githubusercontent.com/68179452/167472440-4f369e01-f7c8-4fd9-ac58-2877e5b698c2.mp4
+
+
 
 
 After performing detection part in my trained model:
