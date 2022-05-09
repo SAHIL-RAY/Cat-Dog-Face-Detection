@@ -6,9 +6,8 @@ My test video:
 
 
 
-https://user-images.githubusercontent.com/68179452/167472440-4f369e01-f7c8-4fd9-ac58-2877e5b698c2.mp4
 
-
+https://user-images.githubusercontent.com/68179452/167473620-fe512695-d67f-43ce-a957-39d4deb4861b.mp4
 
 
 After performing detection part in my trained model:
